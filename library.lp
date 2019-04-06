@@ -1,0 +1,11 @@
+(librepcb_library 7fee2fbe-ec33-4434-afbc-12c183a7ef45
+ (name "Vishay")
+ (description "Vishay Semiconductors (inofficial).")
+ (keywords "")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2019-04-05T17:10:23Z)
+ (deprecated false)
+ (url "https://github.com/pinoaffe/Vishay.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
